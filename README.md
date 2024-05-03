@@ -127,5 +127,3 @@ $ sudo docker run -p 8080:8080 -p 50000:50000 -d -v jenkins_home:/var/jenkins_ho
 ## Testing and Validation
 - Push a change to the 'develop' branch and verify Jenkins triggers a build.
 - Check the Jenkins dashboard for build status and output.
-```
-      
